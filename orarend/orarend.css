@@ -1,0 +1,87 @@
+.matek{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.irodalom{
+    font-size: 80%;
+    text-align: right;
+    text-transform: property;
+}
+
+.tori{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.tesi{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.fizika{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.angol{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.ofo{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.adatbazis{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.szakangol{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.webprog{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.ikt{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.asztali{
+    font-size: 80%;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+th{ 
+    border: 1px solid;
+    border-color: black;
+}
+
+td{
+    width: 100px;
+    border: 1px solid;
+    border-color: black;
+}
+
+.tanar{
+    font-weight: bold;
+    text-align: center;
+}
